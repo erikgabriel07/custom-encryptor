@@ -1,8 +1,7 @@
 # Custom Encryptor
 
-**Custom Encryptor** é uma aplicação Python que permite a encriptação e decriptação de arquivos utilizando uma chave secreta. Este programa foi projetado para ser simples e seguro, aproveitando métodos integrados do Python para manipulação de dados e criptografia.
-
 ## Tabela de Conteúdo
+- [Introdução](#introdução)
 - [Funcionalidades](#funcionalidades)  
 - [Instalação](#instalação)  
 - [Requisitos](#requisitos)  
@@ -11,6 +10,8 @@
 - [Contribuições e Suporte](#contribuições-e-suporte)
 - [LICENSE](#LICENSE)
 
+## Introdução
+**Custom Encryptor** é uma aplicação Python que permite a encriptação e decriptação de arquivos utilizando uma chave secreta. Este programa foi projetado para ser simples e seguro, aproveitando métodos integrados do Python para manipulação de dados e criptografia.
 
 ## 🚀 Funcionalidades
 
