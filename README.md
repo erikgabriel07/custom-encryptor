@@ -2,7 +2,7 @@
 
 ## Tabela de Conteúdo
 - [Introdução](#introdução)
-- [Funcionalidades](#funcionalidades)  
+- [Funcionalidades](#🚀-funcionalidades)  
 - [Instalação](#instalação)  
 - [Requisitos](#requisitos)  
 - [Como usar](#como-usar)  
